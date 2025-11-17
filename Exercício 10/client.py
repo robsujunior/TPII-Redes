@@ -2,7 +2,7 @@ import asyncio
 import websockets
 import sys
 
-SERVER_URI = "ws://127.0.0.1:8765"
+SERVER_URI = "ws://[2804:1b3:cd03:8b15:e545:d697:d901:7d15]:8765"
 
 async def listen_messages(ws):
     try:
