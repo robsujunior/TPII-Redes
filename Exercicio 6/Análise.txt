@@ -1,0 +1,2 @@
+Foi feita uma conexão utilizando o telnet na porta 80 com o site do google, 
+onde é possivel ver o estabelecimento de conexão juntamente com uma requisição http de teste

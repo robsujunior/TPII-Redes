@@ -1,0 +1,1 @@
+É possivel observar os pacotes ICMP feitos pelo ping entre dois dispositivos na mesma rede
