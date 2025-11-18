@@ -1,3 +1,5 @@
+Participantes : Emanuel Guimarães, Robson Junior e Samuel Assunção
+
 Foi capturado tráfego DNS gerado ao acessar o site "www.google.com". 
 A captura mostra consultas DNS (requisições) e respostas, onde o computador solicitou os endereços IP de "www.google.com". 
 Foram retornados dois registros DNS: um endereço IPv6 (AAAA) e um IPv4 (A).

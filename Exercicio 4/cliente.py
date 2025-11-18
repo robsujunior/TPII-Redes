@@ -1,3 +1,5 @@
+#Participantes : Emanuel Guimarães, Robson Junior e Samuel Assunção
+
 import socket
 
 # Endereço e porta do servidor que fornece a hora

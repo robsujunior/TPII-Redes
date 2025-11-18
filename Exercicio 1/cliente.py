@@ -1,3 +1,5 @@
+#Participantes : Emanuel Guimarães, Robson Junior e Samuel Assunção
+
 import socket
 
 # Endereço IP do servidor ao qual o cliente tentará se conectar

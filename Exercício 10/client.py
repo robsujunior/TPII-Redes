@@ -1,3 +1,5 @@
+#Participantes : Emanuel Guimarães, Robson Junior e Samuel Assunção
+
 # Antes de rodar este arquivo, instale a biblioteca "websockets":
 # pip install websockets
 #

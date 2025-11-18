@@ -1,3 +1,5 @@
+#Participantes : Emanuel Guimarães, Robson Junior e Samuel Assunção
+
 import socket
 
 # Endereço do servidor (0.0.0.0 permite receber mensagens de qualquer IP)
